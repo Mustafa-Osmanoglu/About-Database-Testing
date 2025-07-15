@@ -1,7 +1,7 @@
 #creating database
 create database Qadbt;
 #point to database
-use qadbt;
+use Qadbt;
 
 #create tables
 create table Employeeinfo(name varchar(20), id int, location varchar(20), age int);
